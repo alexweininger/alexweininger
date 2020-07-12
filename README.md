@@ -1,4 +1,4 @@
-<img src="dogs.gif" width="100%">
+<img src="https://raw.githubusercontent.com/alexweininger/alexweininger/master/dogs.gif" width="100%">
 
 <!--
 **alexweininger/alexweininger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
